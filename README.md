@@ -1,8 +1,10 @@
 # hello_world
 
-A new Flutter project.
+Pengenalan flutter
 
-## Getting Started
+## Screenshoot hasil project
+
+![alt text](images/ss.jpg)
 
 This project is a starting point for a Flutter application.
 
